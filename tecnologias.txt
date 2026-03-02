@@ -1,6 +1,6 @@
 === CATÁLOGO DE TECNOLOGÍAS WEB ===
-ÚLTIMA REVISIÓN: (completar con la fecha actual)
-RESPONSABLE: (completar con el nombre del revisor)
+ÚLTIMA REVISIÓN: 02/03/2026
+RESPONSABLE: Alex Acuña Masip
 --- FRONTEND ---
 [ASIGNADO A PERSONA A]
 Tecnología: React
