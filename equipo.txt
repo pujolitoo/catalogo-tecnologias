@@ -10,6 +10,6 @@ Nombre: Victor Lopez
 Tecnología asignada: Node.js
 Estado personal: En progreso
 === INTEGRANTE C ===
-Nombre: (Persona C: escribe tu nombre completo)
+Nombre: Alex Acuña Masip
 Tecnología asignada: MongoDB
-Estado personal: Pendiente
+Estado personal: En progreso
